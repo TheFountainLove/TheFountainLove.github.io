@@ -1,13 +1,18 @@
 {
-	"retCode":1,
-	"retMsg":"成功",
-	"data":[
-		{
-			"address":"北京",
-			"descript":"北京真美"
-		},{
-			"address":"安阳",
-			"descript":"安阳真美"
-		}
-	]
+  "retCode": 1,
+  "retMsg": "成功",
+  "data": [
+    {
+      "address": "北京",
+      "descript": "北京真美"
+    },
+    {
+      "address": "安阳",
+      "descript": "安阳真美"
+    },
+    {
+      "address": "安阳",
+      "descript": "安阳真美"
+    }
+  ]
 }
